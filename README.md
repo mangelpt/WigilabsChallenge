@@ -1,2 +1,0 @@
-# WigilabsChallenge
-Globalsoft Wigilabs
