@@ -1,4 +1,4 @@
-# pruebatecnica
+# prueba tecnica
 
 ## Getting started
 
